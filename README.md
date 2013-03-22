@@ -9,8 +9,12 @@ version_check("version to be checked","from versioin", "to version", "Boolean to
 
 "to version", "Boolean to include boundry or not" are optional arguments
 
+by default boundry for the versions are included
+
 example
 version_check("1.65","1.64") returns true
+
+version_check("1.63","1.64") returns false
 
 version_check("1.65","1.64","1.45") returns false
 
