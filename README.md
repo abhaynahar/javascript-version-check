@@ -1,7 +1,5 @@
-javascript-version-ceck
+javascript-version-check
 =======================
-
-javascript version ceck
 
 USEAGE
 
